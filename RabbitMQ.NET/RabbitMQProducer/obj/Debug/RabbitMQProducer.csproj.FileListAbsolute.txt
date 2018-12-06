@@ -1,0 +1,9 @@
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\RabbitMQProducer.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\RabbitMQProducer.pdb
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\RabbitMQ.Client.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\bin\Debug\RabbitMQ.Client.xml
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\obj\Debug\RabbitMQProducer.csproj.CoreCompileInputs.cache
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\obj\Debug\RabbitMQProducer.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQProducer\obj\Debug\RabbitMQProducer.pdb

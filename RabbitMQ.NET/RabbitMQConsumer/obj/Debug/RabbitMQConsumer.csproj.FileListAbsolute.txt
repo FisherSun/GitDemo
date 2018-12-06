@@ -1,0 +1,13 @@
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\RabbitMQConsumer.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\RabbitMQConsumer.pdb
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\RabbitMQ.Client.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\bin\Debug\RabbitMQ.Client.xml
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.csprojResolveAssemblyReference.cache
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.csproj.CoreCompileInputs.cache
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.dll
+E:\项目实战\RabbitMQ.NET\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.pdb
+F:\项目实践\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.csprojResolveAssemblyReference.cache
+F:\项目实践\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.dll
+F:\项目实践\RabbitMQ.NET\RabbitMQConsumer\obj\Debug\RabbitMQConsumer.pdb
