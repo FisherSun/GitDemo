@@ -56,6 +56,13 @@ namespace RabbitMQProducer
                     Console.ReadLine();
                 }
             }
+
+            string Message = "Bill's message";
+        }
+
+        public void AddGame()
+        {
+            Console.Write("Allen完成了游戏功能");
         }
     }
 }
