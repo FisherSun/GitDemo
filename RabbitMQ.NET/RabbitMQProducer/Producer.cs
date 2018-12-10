@@ -59,5 +59,10 @@ namespace RabbitMQProducer
 
             string Message = "Allen's message";
         }
+
+        public void AddMusic()
+        {
+            Console.Write("Allen完成了音乐功能");
+        }
     }
 }
