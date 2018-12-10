@@ -64,5 +64,10 @@ namespace RabbitMQProducer
         {
             Console.Write("Allen完成了音乐功能");
         }
+
+        public void AddGame()
+        {
+            Console.Write("Bill完成了游戏功能");
+        }
     }
 }
