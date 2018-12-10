@@ -56,6 +56,8 @@ namespace RabbitMQProducer
                     Console.ReadLine();
                 }
             }
+
+            string Message = "Allen's message";
         }
     }
 }
