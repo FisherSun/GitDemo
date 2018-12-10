@@ -56,6 +56,8 @@ namespace RabbitMQProducer
                     Console.ReadLine();
                 }
             }
+
+            string Message = "Bill's message";
         }
     }
 }
