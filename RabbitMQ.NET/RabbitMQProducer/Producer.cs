@@ -62,7 +62,7 @@ namespace RabbitMQProducer
 
         public void AddGame()
         {
-            Console.Write("Allen完成了游戏功能");
+            Console.Write("Bill完成了游戏功能");
         }
     }
 }
